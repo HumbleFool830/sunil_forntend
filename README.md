@@ -1,1 +1,1 @@
-# Learning and practicing about frontend and git.
+# Learning and practicing about frontend development 
